@@ -1,5 +1,4 @@
 {
-  "homepage": "http://xjohnfit.github.io/react-weather-app",
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
@@ -16,11 +15,7 @@
   },
   "scripts": {
     "start": "npm run start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "npm run build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
